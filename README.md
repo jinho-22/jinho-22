@@ -1,3 +1,18 @@
+우진호2
+#6777
+
+JayLee_83 — 어제 오후 7:28
+https://discord.gg/JdMAMTHDgj
+JayLee_83 — 어제 오후 7:44
+brew install --cask visual-studio-code chrome eclipse-ide
+brew install --cask visual-studio-code google-chrome eclipse-ide
+ 
+JayLee_83 — 오늘 오후 1:11
+https://profilinator.rishav.dev/
+Github Profilinator
+Github Profilinator - GitHub Profile README Generator
+🔭 I'm currently attending Sungil-Information High School.
+JayLee_83 — 오늘 오후 1:58
 ### <div align="center">I'm Jinho, Student developer 👨‍💻 studying since 2022</div>  
   
 
@@ -13,18 +28,18 @@
 <br/>  
 
 
+
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center" width="100%"><tr>
+<td valign="top" width="100%">
 
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
+</div></td>
 
-</td><td valign="top" width="33%">
+<td valign="top" width="100%">
 
 
 
@@ -33,18 +48,24 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
+<td valign="top" width="100%">
 
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-</div>
+</div></td>
 
-</td></tr></table>  
+<td valign="top" width="100%">
+  
+### SQL  
+<div align="center">  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+</div></td>
+
+</tr></table>  
 
 <br/>  
 
@@ -82,3 +103,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+﻿
+JayLee_83#8383
+kanye west - power
