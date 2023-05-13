@@ -1,18 +1,4 @@
-우진호2
-#6777
 
-JayLee_83 — 어제 오후 7:28
-https://discord.gg/JdMAMTHDgj
-JayLee_83 — 어제 오후 7:44
-brew install --cask visual-studio-code chrome eclipse-ide
-brew install --cask visual-studio-code google-chrome eclipse-ide
- 
-JayLee_83 — 오늘 오후 1:11
-https://profilinator.rishav.dev/
-Github Profilinator
-Github Profilinator - GitHub Profile README Generator
-🔭 I'm currently attending Sungil-Information High School.
-JayLee_83 — 오늘 오후 1:58
 ### <div align="center">I'm Jinho, Student developer 👨‍💻 studying since 2022</div>  
   
 
@@ -101,8 +87,3 @@ JayLee_83 — 오늘 오후 1:58
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-﻿
-JayLee_83#8383
-kanye west - power
