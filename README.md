@@ -71,7 +71,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=[https://img.shields.io/badge/instagram-%23000000.svg](https://yt3.googleusercontent.com/ytc/AOPolaT3g49UFoqcvyrhY7jrnWUN48-GGOaDAlxYYsnjLw=s900-c-k-c0x00ffffff-no-rj)?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=notion.jpeg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
