@@ -70,7 +70,7 @@
 <a href="https://stackoverflow.com/users/21891163/woojinho" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a><br>
-<a href="[https://instagram.com/iamrishavanand](https://oceanic-smell-586.notion.site/jinho-s-notion-main-page-77e6df4225964b68b8e4344621fee2f4?pvs=4)" target="_blank">
+<a href="https://oceanic-smell-586.notion.site/jinho-s-notion-main-page-77e6df4225964b68b8e4344621fee2f4?pvs=4" target="_blank">
 <img src=notion.jpeg?&style=style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; width: 20%;" />
 </a>  
 </div>  
