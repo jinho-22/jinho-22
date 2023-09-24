@@ -82,7 +82,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jinho-22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
 
 
 <br />
